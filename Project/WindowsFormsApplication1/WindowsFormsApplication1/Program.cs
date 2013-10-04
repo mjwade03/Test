@@ -17,6 +17,7 @@ namespace WindowsFormsApplication1
             int i = 0;
             i++;
             i++;
+            i++;
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
